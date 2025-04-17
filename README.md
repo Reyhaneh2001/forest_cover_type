@@ -14,13 +14,13 @@ This project uses the **Forest Cover Type** dataset from Scikit-learn to predict
 
 ## 🧠 Machine Learning Pipeline
 
-✅ Data Loading & Exploration  
-✅ Exploratory Data Analysis (EDA) with **seaborn**, **matplotlib**, and **PCA**  
-✅ Preprocessing & Scaling  
-✅ Model Training: **Random Forest**
-✅ Evaluation using Accuracy, Confusion Matrix, and Classification Report  
-✅ Visualizing Model Performance  
-✅ Explainability using **SHAP values**
+ Data Loading & Exploration  
+ Exploratory Data Analysis (EDA) with **seaborn**, **matplotlib**, and **PCA**  
+ Preprocessing & Scaling  
+ Model Training: **Random Forest**
+ Evaluation using Accuracy, Confusion Matrix, and Classification Report  
+ Visualizing Model Performance  
+ Explainability using **SHAP values**
 
 ---
 
